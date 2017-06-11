@@ -1,0 +1,104 @@
+{
+	"product": [
+		{
+			"sku": "GG0001",
+			"name": "Pouch",
+			"au": "0"
+		},
+		{
+			"sku": "GG0002",
+			"name": "Filtertips",
+			"au": "0"
+		},
+		{
+			"sku": "GG0003",
+			"name": "Kingsize Slim",
+			"au": "0"
+		},
+		{
+			"sku": "GG0004",
+			"name": "Kingsize Regular",
+			"au": "0"
+		},
+		{
+			"sku": "GG0005",
+			"name": "Kingsize Slim (2 in 1)",
+			"au": "0"
+		},
+		{
+			"sku": "GG0006",
+			"name": "Kingsize Regular (2 in 1)",
+			"au": "0"
+		},
+		{
+			"sku": "GG0007",
+			"name": "Greengo 1 1/4",
+			"au": "0"
+		},
+		{
+			"sku": "GG0008",
+			"name": "Greengo Roll Slim",
+			"au": "0"
+		},
+		{
+			"sku": "GG0009",
+			"name": "Greengo Toll Wide",
+			"au": "0"
+		},
+		{
+			"sku": "GG0010",
+			"name": "Greebgo Grinder",
+			"au": "0"
+		},
+		{
+			"sku": "GG0011",
+			"name": "Humidifying Stones",
+			"au": "0"
+		},
+		{
+			"sku": "GG0012",
+			"name": "Greengo Lighters",
+			"au": "0"
+		},
+		{
+			"sku": "GG0013",
+			"name": "Eco Rolling Tray",
+			"au": "0"
+		},
+		{
+			"sku": "GG0014",
+			"name": "Greengo Cap",
+			"au": "0"
+		},
+		{
+			"sku": "GG0015",
+			"name": "Greengo Saverette",
+			"au": "0"
+		},
+		{
+			"sku": "GG0016",
+			"name": "Ext. Thin Classic",
+			"au": "0"
+		},
+		{
+			"sku": "GG0017",
+			"name": "Grinder 2 parts",
+			"au": "0"
+		},
+		{
+			"sku": "GG0018",
+			"name": "Grinder 4 parts",
+			"au": "0"
+		},
+		{
+			"sku": "GG0019",
+			"name": "Greengo 11/4 (2 in 1)",
+			"au": "0"
+		},
+		{
+			"sku": "GG0020",
+			"name": "Greengo 11/4 300s",
+			"au": "0"
+		}
+	]
+}
